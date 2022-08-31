@@ -13,4 +13,4 @@ The core functionality of the developed code is split in three scripts:
 Other files in the repository include a sample training run in `training_run.py`, sensitivity analyses in scripts ending with `_sensitivity.py`, and a Jupyter notebook with a comparison of the different agents developed.
 
 # Requirements
-The code shown here was run in an environment with Python 3.9. The full requirements are shown in the attached `requirements.txt`.
+The code shown here was run in an environment with Python 3.9 and TensorFlow 2.9. The full requirements are shown in the attached `requirements.txt`.
