@@ -176,7 +176,7 @@ def main():
 
     # Save actor and critic networks
     actor_model.save(f'actors/actor_{now}')
-    critic_model.save(f'critics/critic_{now}')
+    # critic_model.save(f'critics/critic_{now}')
 
 if __name__ == '__main__':
     main()
