@@ -1,6 +1,6 @@
 # ddpg_helicopter
 
-This repository contains the code developed as part of the assignment for AE4350 Bio-Inspired Intelligence and Learning for Aerospace Applications.
+This repository contains the code developed as part of the assignment for AE4350 Bio-Inspired Intelligence and Learning for Aerospace Applications. More information about the helicopter model is available [here](https://santiago-valencia.com/posts/helicopter-simulation/helicopter_model.html).
 
 
 # Scripts
